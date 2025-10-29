@@ -1,0 +1,20 @@
+## TOOLS - 
+- git
+- bashmarks
+- asdf
+- python
+- cargo
+- chezmoi
+- fzf
+- zoxide
+- sdkman
+- blesh
+- zed
+- neovim
+- docker
+- firefox
+- composer
+- ssh
+- tldr
+- cht.sh
+- devdocs
