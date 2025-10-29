@@ -18,3 +18,4 @@
 - tldr
 - cht.sh
 - devdocs
+- ghostty
