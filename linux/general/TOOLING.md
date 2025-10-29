@@ -19,3 +19,12 @@
 - cht.sh
 - devdocs
 - ghostty
+- guix
+- curl
+- wget
+- snap/snapd
+- flatpak
+- onedrive
+- unzip
+- dropbox
+- canvas
