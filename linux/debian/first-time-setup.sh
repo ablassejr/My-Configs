@@ -6,5 +6,6 @@ source ~/.bashrc
 for url in  "https://github.com/asdf-vm/asdf-nodejs.git" "https://github.com/asdf-vm/asdf-ruby.git" "https://github.com/asdf-community/asdf-python" "https://github.com/asdf-community/asdf-rust.git"; do
   plugin = "${url##*asdf-}"
   asdf plugin add $plugin $url
+  asdf install $plugin latest
 done
 sudo apt-get install -y dirmngr gpg curl gawk
