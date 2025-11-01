@@ -1,30 +1,23 @@
-## TOOLS - 
-- git
+## TOOLS -
 - bashmarks
-- asdf
+- git
+- asdf(nodjs, python, rust)
 - python
 - cargo
 - chezmoi
-- fzf
-- zoxide
 - sdkman
-- blesh
 - zed
 - neovim
 - docker
 - firefox
 - composer
-- ssh
-- tldr
-- cht.sh
 - devdocs
 - ghostty
+- onedrive
+- dropbox
 - guix
 - curl
 - wget
 - snap/snapd
 - flatpak
-- onedrive
 - unzip
-- dropbox
-- canvas
